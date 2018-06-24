@@ -1,7 +1,7 @@
 # IOT Data team python 3.6 tensorflow with gpu
 
 FROM registry.docker-cn.com/library/ubuntu:16.04
-MAINTAINER wangwei <wangwei93@baidu.com>
+MAINTAINER chenkedi <chenkedi@baidu.com>
 
 # install cuda8 and cudnn6
 RUN NVIDIA_GPGKEY_SUM=d1be581509378368edeec8c1eb2958702feedf3bc3d17011adbf24efacce4ab5 && \
